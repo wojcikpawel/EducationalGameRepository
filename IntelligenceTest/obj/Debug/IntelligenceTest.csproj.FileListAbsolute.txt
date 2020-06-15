@@ -1,0 +1,254 @@
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\AppManifest.xaml
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\App.g.cs
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\MainPage.g.cs
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.pdb
+c:\users\francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\XapCacheFile.xml
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\Dzialania.g.cs
+C:\Users\Francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\IQtest.g.cs
+C:\Users\Francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\WyborGry.g.cs
+C:\Users\Francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\Obrazki.g.cs
+C:\Users\Francis\documents\visual studio 2013\Projects\IntelligenceTest\IntelligenceTest\obj\Debug\Podsumowanie.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\AppManifest.xaml
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\App.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\Dzialania.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\IQtest.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\MainPage.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\Obrazki.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\Podsumowanie.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\WyborGry.g.cs
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.pdb
+C:\Users\Francis\Documents\IntelligenceTest\IntelligenceTest\obj\Debug\XapCacheFile.xml
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\AppManifest.xaml
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\App.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\Dzialania.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\IQtest.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\MainPage.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\Obrazki.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\Podsumowanie.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\WyborGry.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.pdb
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\IntelligenceTest\IntelligenceTest\obj\Debug\XapCacheFile.xml
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\AppManifest.xaml
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\App.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Dzialania.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IQtest.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\MainPage.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Obrazki.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Podsumowanie.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\WyborGry.g.cs
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.pdb
+C:\Users\Paweł\Desktop\STUDIA IV semestr\Programowanie systemów moblinych 4\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\XapCacheFile.xml
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\AppManifest.xaml
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\App.g.cs
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Dzialania.g.cs
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IQtest.g.cs
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\MainPage.g.cs
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Obrazki.g.cs
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Podsumowanie.g.cs
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\WyborGry.g.cs
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.pdb
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\XapCacheFile.xml
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\resources.pri
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\AppxManifest.xml
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.build.appxrecipe
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\priconfig.xml
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\priconfig.xml.intermediate
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\layout.resfiles
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\layout.resfiles.intermediate
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\resources.resfiles
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\resources.resfiles.intermediate
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\pri.resfiles
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\pri.resfiles.intermediate
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\qualifiers.txt
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\qualifiers.txt.intermediate
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\ProjectArchitectures.txt
+D:\STUDIA\STUDIA IV semestr\Inżynieria oprogramowania 5E\PROJEKT\PROJEKT\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\MDILProjectFiles.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\resources.pri
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\AppxManifest.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.build.appxrecipe
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\AppManifest.xaml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\App.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Dzialania.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IQtest.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\MainPage.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Obrazki.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\Podsumowanie.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\WyborGry.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.pdb
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\priconfig.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\priconfig.xml.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\layout.resfiles
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\layout.resfiles.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\resources.resfiles
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\resources.resfiles.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\pri.resfiles
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\pri.resfiles.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\qualifiers.txt
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\ProjectArchitectures.txt
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\MDILProjectFiles.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\IntelligenceTest\IntelligenceTest\obj\Debug\XapCacheFile.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\resources.pri
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\AppxManifest.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.build.appxrecipe
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\AppManifest.xaml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\App.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\Dzialania.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\IQtest.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\MainPage.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\Obrazki.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\Podsumowanie.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\WyborGry.g.cs
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\IntelligenceTest.pdb
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\priconfig.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\priconfig.xml.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\layout.resfiles
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\layout.resfiles.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\resources.resfiles
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\resources.resfiles.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\pri.resfiles
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\pri.resfiles.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\qualifiers.txt
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\ProjectArchitectures.txt
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\MDILProjectFiles.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\obj\Debug\XapCacheFile.xml
+C:\Users\Paweł Wójcik\Desktop\Laboratoria ZTPO\PROJEKT01\APLIKACJA\KOPIA ZAPASOWA\IntelligenceTest\IntelligenceTest\Bin\Debug\IntelligenceTest.XML
+E:\QuizRepository\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png
+E:\QuizRepository\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\QuizRepository\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\QuizRepository\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\QuizRepository\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\QuizRepository\IntelligenceTest\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\QuizRepository\IntelligenceTest\Bin\Debug\resources.pri
+E:\QuizRepository\IntelligenceTest\Bin\Debug\AppxManifest.xml
+E:\QuizRepository\IntelligenceTest\Bin\Debug\IntelligenceTest.build.appxrecipe
+E:\QuizRepository\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml
+E:\QuizRepository\IntelligenceTest\Bin\Debug\AppManifest.xaml
+E:\QuizRepository\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap
+E:\QuizRepository\IntelligenceTest\obj\Debug\App.g.cs
+E:\QuizRepository\IntelligenceTest\obj\Debug\MainPage.g.cs
+E:\QuizRepository\IntelligenceTest\obj\Debug\WyborGry.g.cs
+E:\QuizRepository\IntelligenceTest\obj\Debug\IntelligenceTest.Resources.AppResources.resources
+E:\QuizRepository\IntelligenceTest\obj\Debug\IntelligenceTest.csproj.GenerateResource.Cache
+E:\QuizRepository\IntelligenceTest\obj\Debug\priconfig.xml
+E:\QuizRepository\IntelligenceTest\obj\Debug\priconfig.xml.intermediate
+E:\QuizRepository\IntelligenceTest\obj\Debug\layout.resfiles
+E:\QuizRepository\IntelligenceTest\obj\Debug\layout.resfiles.intermediate
+E:\QuizRepository\IntelligenceTest\obj\Debug\resources.resfiles
+E:\QuizRepository\IntelligenceTest\obj\Debug\resources.resfiles.intermediate
+E:\QuizRepository\IntelligenceTest\obj\Debug\pri.resfiles
+E:\QuizRepository\IntelligenceTest\obj\Debug\pri.resfiles.intermediate
+E:\QuizRepository\IntelligenceTest\obj\Debug\qualifiers.txt
+E:\QuizRepository\IntelligenceTest\obj\Debug\qualifiers.txt.intermediate
+E:\QuizRepository\IntelligenceTest\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\QuizRepository\IntelligenceTest\obj\Debug\ProjectArchitectures.txt
+E:\QuizRepository\IntelligenceTest\obj\Debug\MDILProjectFiles.xml
+E:\QuizRepository\IntelligenceTest\obj\Debug\XapCacheFile.xml
+E:\QuizRepository\IntelligenceTest\Bin\Debug\IntelligenceTest.xml
+E:\QuizRepository\IntelligenceTest\Bin\Debug\IntelligenceTest.dll
+E:\QuizRepository\IntelligenceTest\Bin\Debug\IntelligenceTest.pdb
+E:\QuizRepository\IntelligenceTest\obj\Debug\IntelligenceTest.g.resources
+E:\QuizRepository\IntelligenceTest\obj\Debug\IntelligenceTest.dll
+E:\QuizRepository\IntelligenceTest\obj\Debug\IntelligenceTest.pdb

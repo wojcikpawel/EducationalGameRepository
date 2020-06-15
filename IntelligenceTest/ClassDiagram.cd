@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IntelligenceTest.App" Collapsed="true">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwAgCSAIAAAAhAAAAAAAAAAAAAAAEQAAAAAAAIIAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.Dane">
+    <Position X="0.5" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAQAAAAABAAYAQAAAAAAAAAAECIACAAAAQA=</HashCode>
+      <FileName>Dane.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.Dzialania">
+    <Position X="11.75" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAIAAAQCAoACAAAAEEIAAAAAAAQAEAAAA=</HashCode>
+      <FileName>Dzialania.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.IQtest">
+    <Position X="13.75" Y="2.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>1AYBAACAAAAAIAAAAAAoACAAAAEAIAAAAQAIAAAABAA=</HashCode>
+      <FileName>IQtest.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.LocalizedStrings" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>LocalizedStrings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.MainPage">
+    <Position X="0.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAgAAAAAAAEAAAQAAAAQAAAAAA=</HashCode>
+      <FileName>MainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.Obliczenia">
+    <Position X="24" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAgAIQAAAAAABAAAAAAAAAAAAAAAAAgAQAEAAAAAAA=</HashCode>
+      <FileName>Obliczenia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.Obrazki">
+    <Position X="20" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>lAQBCLBMgcEQIFYAAIAoAiAgEAAANAAIoDkoDAASAio=</HashCode>
+      <FileName>Obrazki.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.Podsumowanie">
+    <Position X="28.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Podsumowanie.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.WyborGry">
+    <Position X="6" Y="6" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAEAAAAAABAAAAAAAgCAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WyborGry.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IntelligenceTest.Resources.AppResources" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgCAAAAAAABEIAAAQAAAAAAAAAAAAIAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
