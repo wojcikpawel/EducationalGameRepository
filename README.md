@@ -7,6 +7,11 @@ Mobile Application - Windows Phone - Check your  strict skills under time pressu
 * [e-learning framework pk](#elearning-framework-pk)
 
 
+## General Info
+Educational game to check strict skills under time pressure for kids and youth as mobile application!
+
+## Screenshots
+
 ## Technologies
 Project is created with:
 <i></i>
