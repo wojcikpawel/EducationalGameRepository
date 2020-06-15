@@ -4,6 +4,7 @@ Mobile Application - Windows Phone - Check your  strict skills under time pressu
 * [General Info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Running Mobile Application](#running-mobile-application)
 * [e-learning framework pk](#elearning-framework-pk)
 
 
@@ -25,15 +26,15 @@ Project is created with:
 <p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/wp.jpg" width="250px" /></p>
 <p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/vs.jpg" width="250px" /></p>
 
-
-
-
-## Elearning framework pk
-```sh
-http://elf2.pk.edu.pl/course/view.php?id=634#section-0
-```
+## Running Mobile Application
 * To run Windows Phone Emulator:
 ```sh
 enable Hyper-V system function
 ```
 <p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/hyper-v.jpg" width="350px" height="330px" /></p>
+
+## Elearning framework pk
+```sh
+http://elf2.pk.edu.pl/course/view.php?id=634#section-0
+```
+
