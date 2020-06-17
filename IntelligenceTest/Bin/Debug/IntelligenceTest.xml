@@ -20,6 +20,11 @@
             InitializeComponent
             </summary>
         </member>
+        <member name="M:IntelligenceTest.Dzialania.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
         <member name="T:IntelligenceTest.LocalizedStrings">
             <summary>
             Provides access to string resources.
