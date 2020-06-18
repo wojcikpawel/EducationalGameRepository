@@ -290,3 +290,4 @@ E:\EducationalGameRepository\IntelligenceTest\obj\Debug\MultipleQualifiersPerDim
 E:\EducationalGameRepository\IntelligenceTest\obj\Debug\ProjectArchitectures.txt
 E:\EducationalGameRepository\IntelligenceTest\obj\Debug\MDILProjectFiles.xml
 E:\EducationalGameRepository\IntelligenceTest\obj\Debug\XapCacheFile.xml
+E:\EducationalGameRepository\IntelligenceTest\obj\Debug\Obrazki.g.cs

@@ -72,6 +72,45 @@
     <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Assets\WideLogo.png">
       <PackagePath>Assets\WideLogo.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\1.png">
+      <PackagePath>Obrazki\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\10.png">
+      <PackagePath>Obrazki\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\11.png">
+      <PackagePath>Obrazki\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\12.png">
+      <PackagePath>Obrazki\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\13.png">
+      <PackagePath>Obrazki\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\2.png">
+      <PackagePath>Obrazki\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\3.png">
+      <PackagePath>Obrazki\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\4.png">
+      <PackagePath>Obrazki\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\5.png">
+      <PackagePath>Obrazki\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\6.png">
+      <PackagePath>Obrazki\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\7.png">
+      <PackagePath>Obrazki\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\8.png">
+      <PackagePath>Obrazki\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Obrazki\9.png">
+      <PackagePath>Obrazki\9.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
