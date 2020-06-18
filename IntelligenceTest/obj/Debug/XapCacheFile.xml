@@ -1,6 +1,6 @@
-﻿<xapCache source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2020-06-18 13:02:34">
-  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="2020-06-18 13:02:33" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\IntelligenceTest.dll" archivePath="IntelligenceTest.dll" lastWriteTime="2020-06-18 13:02:32" />
+﻿<xapCache source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2020-06-18 13:06:24">
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="2020-06-18 13:06:23" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\IntelligenceTest.dll" archivePath="IntelligenceTest.dll" lastWriteTime="2020-06-18 13:06:23" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2020-06-10 10:42:53" />
@@ -76,10 +76,10 @@
   <file source="E:\EducationalGameRepository\IntelligenceTest\Obrazki\7.png" archivePath="Obrazki\7.png" lastWriteTime="2020-06-15 18:08:20" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Obrazki\8.png" archivePath="Obrazki\8.png" lastWriteTime="2020-06-15 18:08:56" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Obrazki\9.png" archivePath="Obrazki\9.png" lastWriteTime="2020-06-15 18:09:20" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2020-06-18 12:50:30" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="2020-06-18 13:06:20" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2020-06-15 23:17:32" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2020-06-10 10:42:53" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2020-06-18 12:50:31" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2020-06-18 13:02:34" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2020-06-18 13:02:33" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2020-06-18 13:06:20" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2020-06-18 13:06:24" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2020-06-18 13:06:23" />
 </xapCache>
