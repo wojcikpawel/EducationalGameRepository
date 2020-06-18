@@ -103,6 +103,7 @@
     </Compile>
     <Compile Include="Dane.cs" />
     <Compile Include="Dzialania.xaml.cs" />
+    <Compile Include="IQtest.xaml.cs" />
     <Compile Include="LocalizedStrings.cs" />
     <Compile Include="MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
@@ -125,6 +126,10 @@
       <Generator>MSBuild:Compile</Generator>
     </ApplicationDefinition>
     <Page Include="Dzialania.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="IQtest.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
@@ -178,6 +183,56 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Assets\WideLogo.png" />
+    <Content Include="Images\10.png" />
+    <Content Include="Images\10a.png" />
+    <Content Include="Images\10b.png" />
+    <Content Include="Images\10c_pop.png" />
+    <Content Include="Images\10d.png" />
+    <Content Include="Images\11.png" />
+    <Content Include="Images\11a_pop.png" />
+    <Content Include="Images\11b.png" />
+    <Content Include="Images\11c.png" />
+    <Content Include="Images\11d.png" />
+    <Content Include="Images\12.png" />
+    <Content Include="Images\12a.png" />
+    <Content Include="Images\12b_pop.png" />
+    <Content Include="Images\12c.png" />
+    <Content Include="Images\12d.png" />
+    <Content Include="Images\13.png" />
+    <Content Include="Images\13a_pop.png" />
+    <Content Include="Images\13b.png" />
+    <Content Include="Images\13c.png" />
+    <Content Include="Images\13d.png" />
+    <Content Include="Images\14.png" />
+    <Content Include="Images\14a.png" />
+    <Content Include="Images\14b_pop.png" />
+    <Content Include="Images\14c.png" />
+    <Content Include="Images\14d.png" />
+    <Content Include="Images\15.png" />
+    <Content Include="Images\15a.png" />
+    <Content Include="Images\15b.png" />
+    <Content Include="Images\15c.png" />
+    <Content Include="Images\15d_pop.png" />
+    <Content Include="Images\6.png" />
+    <Content Include="Images\6a_pop.png" />
+    <Content Include="Images\6b.png" />
+    <Content Include="Images\6c.png" />
+    <Content Include="Images\6d.png" />
+    <Content Include="Images\7.png" />
+    <Content Include="Images\7a.png" />
+    <Content Include="Images\7b.png" />
+    <Content Include="Images\7c_pop.png" />
+    <Content Include="Images\7d.png" />
+    <Content Include="Images\8.png" />
+    <Content Include="Images\8a.png" />
+    <Content Include="Images\8b.png" />
+    <Content Include="Images\8c.png" />
+    <Content Include="Images\8d_pop.png" />
+    <Content Include="Images\9.png" />
+    <Content Include="Images\9a_pop.png" />
+    <Content Include="Images\9b.png" />
+    <Content Include="Images\9c.png" />
+    <Content Include="Images\9d.png" />
     <Content Include="Obrazki\1.png" />
     <Content Include="Obrazki\10.png" />
     <Content Include="Obrazki\11.png" />

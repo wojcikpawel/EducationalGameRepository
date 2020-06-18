@@ -1,6 +1,6 @@
-﻿<xapCache source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2020-06-18 12:54:28">
-  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="2020-06-18 12:54:27" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\IntelligenceTest.dll" archivePath="IntelligenceTest.dll" lastWriteTime="2020-06-18 12:54:27" />
+﻿<xapCache source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\IntelligenceTest_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="2020-06-18 13:02:34">
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="2020-06-18 13:02:33" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\IntelligenceTest.dll" archivePath="IntelligenceTest.dll" lastWriteTime="2020-06-18 13:02:32" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="2020-06-10 10:42:53" />
@@ -13,6 +13,56 @@
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\10.png" archivePath="Images\10.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\10a.png" archivePath="Images\10a.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\10b.png" archivePath="Images\10b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\10c_pop.png" archivePath="Images\10c_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\10d.png" archivePath="Images\10d.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\11.png" archivePath="Images\11.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\11a_pop.png" archivePath="Images\11a_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\11b.png" archivePath="Images\11b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\11c.png" archivePath="Images\11c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\11d.png" archivePath="Images\11d.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\12.png" archivePath="Images\12.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\12a.png" archivePath="Images\12a.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\12b_pop.png" archivePath="Images\12b_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\12c.png" archivePath="Images\12c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\12d.png" archivePath="Images\12d.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\13.png" archivePath="Images\13.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\13a_pop.png" archivePath="Images\13a_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\13b.png" archivePath="Images\13b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\13c.png" archivePath="Images\13c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\13d.png" archivePath="Images\13d.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\14.png" archivePath="Images\14.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\14a.png" archivePath="Images\14a.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\14b_pop.png" archivePath="Images\14b_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\14c.png" archivePath="Images\14c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\14d.png" archivePath="Images\14d.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\15.png" archivePath="Images\15.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\15a.png" archivePath="Images\15a.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\15b.png" archivePath="Images\15b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\15c.png" archivePath="Images\15c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\15d_pop.png" archivePath="Images\15d_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\6.png" archivePath="Images\6.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\6a_pop.png" archivePath="Images\6a_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\6b.png" archivePath="Images\6b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\6c.png" archivePath="Images\6c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\6d.png" archivePath="Images\6d.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\7.png" archivePath="Images\7.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\7a.png" archivePath="Images\7a.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\7b.png" archivePath="Images\7b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\7c_pop.png" archivePath="Images\7c_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\7d.png" archivePath="Images\7d.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\8.png" archivePath="Images\8.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\8a.png" archivePath="Images\8a.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\8b.png" archivePath="Images\8b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\8c.png" archivePath="Images\8c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\8d_pop.png" archivePath="Images\8d_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\9.png" archivePath="Images\9.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\9a_pop.png" archivePath="Images\9a_pop.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\9b.png" archivePath="Images\9b.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\9c.png" archivePath="Images\9c.png" lastWriteTime="2020-06-10 10:42:53" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Images\9d.png" archivePath="Images\9d.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Obrazki\1.png" archivePath="Obrazki\1.png" lastWriteTime="2020-06-15 18:03:52" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Obrazki\10.png" archivePath="Obrazki\10.png" lastWriteTime="2020-06-15 18:09:42" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Obrazki\11.png" archivePath="Obrazki\11.png" lastWriteTime="2020-06-15 18:10:09" />
@@ -30,6 +80,6 @@
   <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="2020-06-15 23:17:32" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="2020-06-10 10:42:53" />
   <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="2020-06-18 12:50:31" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2020-06-18 12:54:28" />
-  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2020-06-18 12:54:27" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="2020-06-18 13:02:34" />
+  <file source="E:\EducationalGameRepository\IntelligenceTest\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="2020-06-18 13:02:33" />
 </xapCache>

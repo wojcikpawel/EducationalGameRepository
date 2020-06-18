@@ -1,0 +1,54 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="IntelligenceTest.IQtest"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="768"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <Grid x:Name="gridStartowy" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#ffc61a">
+            <TextBlock HorizontalAlignment="Left" Margin="199,20,0,0" TextWrapping="Wrap" Text="IQ TEST" VerticalAlignment="Top" Width="80" Height="35" Foreground="Black" FontSize="20"/>
+            <TextBlock Text="Prove Yourself" Margin="9,70,12,602" Style="{StaticResource PhoneTextTitle1Style}" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="10,176,0,0" TextWrapping="Wrap" Text="Click start button when you will be ready" VerticalAlignment="Top" Height="49" Width="458" FontSize="25" Foreground="Black"/>
+            <Button x:Name="bStart" Content="Start" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bStartClick" Foreground="Black" BorderBrush="Black" />
+            <Button x:Name="bBack" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,623,0,0" Height="100" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
+        </Grid>
+        <Grid x:Name="grid1" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#ffc61a" Visibility="Collapsed">
+            <Image x:Name="imagePytanie" HorizontalAlignment="Left" Height="390" VerticalAlignment="Top" Width="395" Source="/Images/6.png" Margin="40,10,0,0"/>
+            <Image x:Name="imageA" HorizontalAlignment="Left" Height="80" Margin="70,445,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6a_pop.png" Tap="tapA"/>
+            <Image x:Name="imageB" HorizontalAlignment="Left" Height="80" Margin="300,445,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6b.png" Tap="tapB"/>
+            <Image x:Name="imageC" HorizontalAlignment="Left" Height="80" Margin="70,545,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6c.png" Tap="tapC"/>
+            <Image x:Name="imageD" HorizontalAlignment="Left" Height="80" Margin="300,545,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6d.png" Tap="tapD"/>
+            <TextBlock HorizontalAlignment="Left" Margin="25,445,0,0" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="25,545,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="255,445,0,0" TextWrapping="Wrap" Text="B" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="255,545,0,0" TextWrapping="Wrap" Text="D" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <Grid HorizontalAlignment="Left" Height="100" Margin="150,160,0,0" VerticalAlignment="Top" Width="100"/>
+            <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="35" Margin="40,405,0,0" VerticalAlignment="Top" Width="395" ValueChanged="progressBar_ValueChanged" SmallChange="1" Maximum="600" Foreground="Black"/>
+            <Button x:Name="bBackIQ" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,690,0,0" Height="80" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
+        </Grid>
+        <Grid x:Name="grid2" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#ffc61a" Visibility="Collapsed">
+            <TextBlock HorizontalAlignment="Left" Margin="210,20,0,0" TextWrapping="Wrap" Text="IQ TEST" VerticalAlignment="Top" Height="40" Width="470" Foreground="Black"/>
+            <TextBlock x:Name="textBlockKoniec" HorizontalAlignment="Left" Margin="105,69,0,0" TextWrapping="Wrap" Text="The End" VerticalAlignment="Top" Height="100" Width="460" FontFamily="Segoe WP Semibold" FontSize="70" Foreground="Black"/>
+            <TextBlock x:Name="textBlockWynik" HorizontalAlignment="Left" Margin="22,176,0,0" TextWrapping="Wrap" Text="Your Score:" VerticalAlignment="Top" Height="80" Width="460" FontSize="25" Foreground="Black"/>
+            <Button x:Name="bMenuPowrot" Content="Next" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bPowrotClick" Foreground="Black" BorderBrush="Black"/>
+        </Grid>
+
+        <!--ContentPanel - place additional content here-->
+    </Grid>
+
+</phone:PhoneApplicationPage>

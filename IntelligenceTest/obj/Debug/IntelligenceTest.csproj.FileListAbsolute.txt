@@ -291,3 +291,4 @@ E:\EducationalGameRepository\IntelligenceTest\obj\Debug\ProjectArchitectures.txt
 E:\EducationalGameRepository\IntelligenceTest\obj\Debug\MDILProjectFiles.xml
 E:\EducationalGameRepository\IntelligenceTest\obj\Debug\XapCacheFile.xml
 E:\EducationalGameRepository\IntelligenceTest\obj\Debug\Obrazki.g.cs
+E:\EducationalGameRepository\IntelligenceTest\obj\Debug\IQtest.g.cs
