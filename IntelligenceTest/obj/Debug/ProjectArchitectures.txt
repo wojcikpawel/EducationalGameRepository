@@ -1,1 +1,1 @@
-E:\EducationalGameRepository\IntelligenceTest\IntelligenceTest.csproj;neutral
+E:\EducationalGameRepository\IntelligenceTest\EducationalGame.csproj;neutral

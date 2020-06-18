@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntelligenceTest", "IntelligenceTest\IntelligenceTest.csproj", "{7BD47E63-2553-4C34-AFAA-61FF1CCF73A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EducationalGame", "IntelligenceTest\EducationalGame.csproj", "{7BD47E63-2553-4C34-AFAA-61FF1CCF73A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
