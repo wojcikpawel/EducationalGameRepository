@@ -33,6 +33,9 @@ enable Hyper-V system function
 ```
 <p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/hyper-v.jpg" width="350px" height="330px" /></p>
 
+* Install Visual Studio Community 2015
+* Install Windows Phone 8.1 SDK
+
 ## Elearning framework pk
 ```sh
 http://elf2.pk.edu.pl/course/view.php?id=634#section-0
