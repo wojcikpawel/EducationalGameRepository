@@ -22,27 +22,27 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="768"/>
         </Grid.RowDefinitions>
-        <Grid x:Name="gridDzialaniaStart" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#ffc61a">
+        <Grid x:Name="gridDzialaniaStart" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#FF1071C1">
             <TextBlock x:Name="textBlockNacisnijStart" HorizontalAlignment="Left" Margin="22,176,0,0" TextWrapping="Wrap" Text="Click start button when you will be ready" VerticalAlignment="Top" Height="49" Width="458" FontSize="25" Foreground="Black"/>
             <TextBlock x:Name="textBlockDzialania" HorizontalAlignment="Left" Margin="132,20,0,0" TextWrapping="Wrap" Text="EQUATIONS ON TIME" VerticalAlignment="Top" Width="208" Height="35" Foreground="Black" FontSize="20"/>
             <TextBlock x:Name="textBlockRozwiaz" HorizontalAlignment="Left" Margin="105,69,0,0" TextWrapping="Wrap" Text="SOLVE IT" VerticalAlignment="Top" Height="106" Width="295" FontSize="70" FontFamily="Segoe WP SemiLight" Foreground="Black"/>
-            <Button x:Name="buttonStart" Content="Start" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bStartClick" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="buttonStart" Content="Start -&gt;" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bStartClick" Foreground="Black" BorderBrush="Black"/>
             <Grid HorizontalAlignment="Left" Height="100" Margin="180,59,0,0" VerticalAlignment="Top" Width="100"/>
-            <Button x:Name="bBack" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,623,0,0" Height="100" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
+            <Button x:Name="bBack" Content="&lt;- Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,623,0,0" Height="100" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
         </Grid>
-        <Grid x:Name="gridRownania" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#ffc61a" Visibility="Collapsed">
+        <Grid x:Name="gridRownania" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#FF1071C1" Visibility="Collapsed">
             <TextBlock HorizontalAlignment="Left" Margin="132,20,0,0" TextWrapping="Wrap" Text="EQUATIONS ON TIME" VerticalAlignment="Top" Height="55" Width="460" FontSize="20" Foreground="Black"/>
             <TextBlock x:Name="tRownanie" HorizontalAlignment="Left" Margin="15,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="105" Width="460" FontSize="75" FontFamily="Segoe WP SemiLight" Foreground="Black"/>
             <TextBox x:Name="textBoxOdpowiedz" HorizontalAlignment="Left" Height="72" Margin="10,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="225" Foreground="Black" Background="#ffc61a" BorderBrush="#BF000000" SelectionBackground="Black" SelectionForeground="#ffc61a" SelectionChanged="SelectionChanged"/>
-            <Button x:Name="buttonDalej" Content="Next" HorizontalAlignment="Left" Margin="235,282,0,0" VerticalAlignment="Top" Width="245" Click="bDalejClick" Foreground="Black" BorderBrush="Black"/>
-            <Button x:Name="buttonBack" Content="Back" HorizontalAlignment="Left" Margin="235,340,0,0" VerticalAlignment="Top" Width="245" Click="bBack_Click" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="buttonDalej" Content="Next -&gt;" HorizontalAlignment="Left" Margin="235,282,0,0" VerticalAlignment="Top" Width="245" Click="bDalejClick" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="buttonBack" Content="&lt;- Back" HorizontalAlignment="Left" Margin="235,340,0,0" VerticalAlignment="Top" Width="245" Click="bBack_Click" Foreground="Black" BorderBrush="Black"/>
             <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="36" Margin="10,210,0,0" VerticalAlignment="Top" Width="460" ValueChanged="ProgressBar_ValueChanged" Maximum="10" Foreground="Black"/>
         </Grid>
-        <Grid x:Name="gridPowrot" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#ffc61a" Visibility="Collapsed">
+        <Grid x:Name="gridPowrot" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#FF1071C1" Visibility="Collapsed">
             <TextBlock HorizontalAlignment="Left" Margin="132,20,0,0" TextWrapping="Wrap" Text="EQUATIONS ON TIME" VerticalAlignment="Top" Height="40" Width="470" Foreground="Black"/>
             <TextBlock x:Name="textBlockKoniec" HorizontalAlignment="Left" Margin="105,69,0,0" TextWrapping="Wrap" Text="The End" VerticalAlignment="Top" Height="100" Width="460" FontFamily="Segoe WP Semibold" FontSize="70" Foreground="Black"/>
             <TextBlock x:Name="textBlockWynik" HorizontalAlignment="Left" Margin="22,176,0,0" TextWrapping="Wrap" Text="Your Score:" VerticalAlignment="Top" Height="80" Width="460" FontSize="25" Foreground="Black"/>
-            <Button x:Name="bMenuPowrot" Content="Next" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bPowrotClick" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="bMenuPowrot" Content="Next -&gt;" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bPowrotClick" Foreground="Black" BorderBrush="Black"/>
         </Grid>
 
 

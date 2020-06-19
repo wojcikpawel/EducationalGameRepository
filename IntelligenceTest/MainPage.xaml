@@ -25,19 +25,19 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="768"/>
         </Grid.RowDefinitions>
-        <Grid x:Name="gridDane" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#ffc61a">
+        <Grid x:Name="gridDane" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#FF1071C1">
             <TextBlock HorizontalAlignment="Left" Margin="130,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="200" Foreground="Black">
                 <Run FontWeight="Bold" Text="INTELLIGENCE TEST"/>
             </TextBlock>
             <TextBlock HorizontalAlignment="Left" Margin="90,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="95" Width="285" FontSize="30" FontFamily="Segoe WP SemiLight" Foreground="Black">
                 <Run FontWeight="Bold" Text="Enter your nickname:"/>
             </TextBlock>
-            <TextBox x:Name="textBoxNick" HorizontalAlignment="Left" Height="72" Margin="15,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="425" Foreground="Black" BorderBrush="#BF000000" Background="#ffc61a" SelectionForeground="#FFEAD403" SelectionChanged="SelectionChanged">
+            <TextBox x:Name="textBoxNick" HorizontalAlignment="Left" Height="72" Margin="15,280,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="425" Foreground="Black" BorderBrush="#BF000000" Background="#FF1071C1" SelectionForeground="#FFEAD403" SelectionChanged="SelectionChanged" InputScope="PersonalFullName" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible">
                 <TextBox.SelectionBackground>
                     <SolidColorBrush Color="Black"/>
                 </TextBox.SelectionBackground>
             </TextBox>
-            <Button x:Name="bDalej" Content="Next" HorizontalAlignment="Left" Margin="55,615,0,0" VerticalAlignment="Top" Height="100" Width="365" Click="bDalejClick" Foreground="Black" BorderBrush="Black" FontSize="30"/>
+            <Button x:Name="bDalej" Content="Next -&gt;" HorizontalAlignment="Left" Margin="55,615,0,0" VerticalAlignment="Top" Height="100" Width="365" Click="bDalejClick" Foreground="Black" BorderBrush="Black" FontSize="30"/>
             <TextBlock HorizontalAlignment="Left" Margin="125,65,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="95" Width="235" FontSize="45" FontFamily="Segoe WP SemiLight" Foreground="Black">
                 <Run FontWeight="Bold" Text="Welcome!"/>
             </TextBlock>

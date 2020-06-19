@@ -20,15 +20,15 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Grid HorizontalAlignment="Left" Height="768" Grid.RowSpan="2" VerticalAlignment="Top" Width="480">
-            <Grid x:Name="gridStartowy" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#ffc61a">
+            <Grid x:Name="gridStartowy" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF1071C1">
                 <TextBlock x:Name="textblockMemoryGame" HorizontalAlignment="Left" Margin="171,20,0,0" TextWrapping="Wrap" Text="MEMORY GAME" VerticalAlignment="Top" Width="208" Height="35" Foreground="Black" FontSize="20"/>
                 <TextBlock x:Name="textBlockDiscoverAll" Text="Discover All" HorizontalAlignment="Left" Margin="63,81,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="127" Width="360" FontSize="70" FontFamily="Segoe WP SemiLight" Foreground="Black"/>
                 <TextBlock x:Name="textBlockClickStartButton" HorizontalAlignment="Left" Margin="22,176,0,0" TextWrapping="Wrap" Text="Click start button when you will be ready" VerticalAlignment="Top" Height="49" Width="458" FontSize="25" Foreground="Black"/>
-                <Button x:Name="buttonStart" Content="Start" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bStartClick" Foreground="Black" BorderBrush="Black"/>
+                <Button x:Name="buttonStart" Content="Start -&gt;" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bStartClick" Foreground="Black" BorderBrush="Black"/>
                 <Grid HorizontalAlignment="Left" Height="100" Margin="85,140,0,0" VerticalAlignment="Top" Width="100"/>
-                <Button x:Name="bBack" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,623,0,0" Height="100" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
+                <Button x:Name="bBack" Content="&lt;- Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,623,0,0" Height="100" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
             </Grid>
-            <Grid x:Name="gridOdkrywanie" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#ffc61a" Visibility="Collapsed">
+            <Grid x:Name="gridOdkrywanie" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF1071C1" Visibility="Collapsed">
                 <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="30" Margin="30,20,0,0" VerticalAlignment="Top" Width="415" SmallChange="1" Maximum="299" Foreground="Black"/>
                 <Image x:Name="img1" HorizontalAlignment="Left" Height="100" Margin="30,70,0,0" VerticalAlignment="Top" Width="100" Source="/Obrazki/13.png" Tap="img1Tap"/>
                 <Image x:Name="img2" HorizontalAlignment="Left" Height="100" Margin="135,70,0,0" VerticalAlignment="Top" Width="100" Source="/Obrazki/13.png" Tap="img2Tap"/>
@@ -55,13 +55,13 @@
                 <Image x:Name="img17" HorizontalAlignment="Left" Height="100" Margin="30,490,0,0" VerticalAlignment="Top" Width="100" Source="/Obrazki/13.png" Tap="img17Tap"/>
                 <Image x:Name="img24" HorizontalAlignment="Left" Height="100" Margin="345,595,0,0" VerticalAlignment="Top" Width="100" Source="/Obrazki/13.png" Tap="img24Tap"/>
                 <Image x:Name="default1" HorizontalAlignment="Left" Height="30" Margin="415,710,0,0" VerticalAlignment="Top" Width="30" Visibility="Collapsed"/>
-                <Button x:Name="bBackOdkrywanie" Content="Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,690,0,0" Height="80" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
+                <Button x:Name="bBackOdkrywanie" Content="&lt;- Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,690,0,0" Height="80" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
             </Grid>
-            <Grid x:Name="gridKoniec" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#ffc61a" Visibility="Collapsed">
+            <Grid x:Name="gridKoniec" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF1071C1" Visibility="Collapsed">
                 <TextBlock HorizontalAlignment="Left" Margin="160,20,0,0" TextWrapping="Wrap" Text="MEMORY GAME" VerticalAlignment="Top" Height="40" Width="470" Foreground="Black"/>
                 <TextBlock x:Name="textBlockKoniec" HorizontalAlignment="Left" Margin="105,69,0,0" TextWrapping="Wrap" Text="The End" VerticalAlignment="Top" Height="100" Width="460" FontFamily="Segoe WP Semibold" FontSize="70" Foreground="Black"/>
                 <TextBlock x:Name="textBlockWynik" HorizontalAlignment="Left" Margin="22,176,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Height="80" Width="460" FontSize="25" Foreground="Black"/>
-                <Button x:Name="bMenuPowrot" Content="Next" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bPowrotClick" Foreground="Black" BorderBrush="Black"/>
+                <Button x:Name="bMenuPowrot" Content="Next -&gt;" HorizontalAlignment="Left" Margin="63,533,0,0" VerticalAlignment="Top" Height="100" Width="365" FontSize="30" Click="bPowrotClick" Foreground="Black" BorderBrush="Black"/>
             </Grid>
         </Grid>
 

@@ -20,7 +20,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <Grid x:Name="gridStart" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#ffc61a">
+        <Grid x:Name="gridStart" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#FF1071C1">
             <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,751" Grid.ColumnSpan="2"/>
             <TextBlock x:Name="textBlockWybierzKonkurencje" HorizontalAlignment="Left" Margin="30,52,-10,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="460" Height="41" FontSize="30" Foreground="Black">
                 <Run FontWeight="Bold" Text="Choose your competition:"/>
@@ -28,10 +28,10 @@
             <Button x:Name="butDzialania" Content="Equations On Time" HorizontalAlignment="Left" Margin="12,125,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bDzialania" Foreground="Black" BorderBrush="Black"/>
             <Button x:Name="butObrazki" Content="Memory Game" HorizontalAlignment="Left" Margin="12,234,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bObrazki" Foreground="Black" BorderBrush="Black"/>
             <Button x:Name="butIQ" Content="IQ Test" HorizontalAlignment="Left" Margin="12,343,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bIQ" Foreground="Black" BorderBrush="Black"/>
-            <Button x:Name="butPodsumowanie" Content="Results" HorizontalAlignment="Left" Margin="98,543,0,0" VerticalAlignment="Top" Width="297" Height="110" Click="bPodsumowanie" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="butPodsumowanie" Content="---- Results ----" HorizontalAlignment="Left" Margin="98,543,0,0" VerticalAlignment="Top" Width="297" Height="110" Click="bPodsumowanie" Foreground="Black" BorderBrush="Black"/>
             <Grid HorizontalAlignment="Left" Height="100" Margin="85,63,0,0" VerticalAlignment="Top" Width="100"/>
             <Grid HorizontalAlignment="Left" Height="100" Margin="110,163,0,0" VerticalAlignment="Top" Width="100"/>
-            <Button x:Name="bExitApp" Content="Exit" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,649,0,0" Width="297" Height="110" Foreground="Black" BorderBrush="Black" Click="bExitApp_Click"/>
+            <Button x:Name="bExitApp" Content="-&gt; Exit &lt;-" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="98,649,0,0" Width="297" Height="110" Foreground="Black" BorderBrush="Black" Click="bExitApp_Click"/>
         </Grid>
 
         <!--TitlePanel contains the name of the application and page title-->
