@@ -29,7 +29,8 @@
                 <Button x:Name="bBack" Content="&lt;- Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,623,0,0" Height="100" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
             </Grid>
             <Grid x:Name="gridOdkrywanie" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF1071C1" Visibility="Collapsed">
-                <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="30" Margin="30,20,0,0" VerticalAlignment="Top" Width="415" SmallChange="1" Maximum="299" Foreground="Black"/>
+                <TextBlock HorizontalAlignment="Left" Margin="171,20,0,0" TextWrapping="Wrap" Text="MEMORY GAME" VerticalAlignment="Top" Height="55" Width="460" FontSize="20" Foreground="Black"/>
+                <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="30" Margin="30,47,0,0" VerticalAlignment="Top" Width="415" SmallChange="1" Maximum="299" Foreground="Black"/>
                 <Image x:Name="img1" HorizontalAlignment="Left" Height="100" Margin="30,70,0,0" VerticalAlignment="Top" Width="100" Source="/Obrazki/13.png" Tap="img1Tap"/>
                 <Image x:Name="img2" HorizontalAlignment="Left" Height="100" Margin="135,70,0,0" VerticalAlignment="Top" Width="100" Source="/Obrazki/13.png" Tap="img2Tap"/>
                 <Image x:Name="img3" HorizontalAlignment="Left" Height="100" Margin="240,70,0,0" VerticalAlignment="Top" Width="100" Source="/Obrazki/13.png" Tap="img3Tap"/>

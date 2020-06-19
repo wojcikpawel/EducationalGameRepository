@@ -25,9 +25,9 @@
             <TextBlock x:Name="textBlockWybierzKonkurencje" HorizontalAlignment="Left" Margin="30,52,-10,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="460" Height="41" FontSize="30" Foreground="Black">
                 <Run FontWeight="Bold" Text="Choose your competition:"/>
             </TextBlock>
-            <Button x:Name="butDzialania" Content="Equations On Time" HorizontalAlignment="Left" Margin="12,125,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bDzialania" Foreground="Black" BorderBrush="Black"/>
-            <Button x:Name="butObrazki" Content="Memory Game" HorizontalAlignment="Left" Margin="12,234,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bObrazki" Foreground="Black" BorderBrush="Black"/>
-            <Button x:Name="butIQ" Content="IQ Test" HorizontalAlignment="Left" Margin="12,343,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bIQ" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="butDzialania" Content="====== Equations On Time ======" HorizontalAlignment="Left" Margin="12,125,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bDzialania" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="butObrazki" Content="======= Memory Game =======" HorizontalAlignment="Left" Margin="12,234,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bObrazki" Foreground="Black" BorderBrush="Black"/>
+            <Button x:Name="butIQ" Content="========== IQ Test ==========" HorizontalAlignment="Left" Margin="12,343,0,0" VerticalAlignment="Top" Width="458" Height="109" Click="bIQ" Foreground="Black" BorderBrush="Black"/>
             <Button x:Name="butPodsumowanie" Content="---- Results ----" HorizontalAlignment="Left" Margin="98,543,0,0" VerticalAlignment="Top" Width="297" Height="110" Click="bPodsumowanie" Foreground="Black" BorderBrush="Black"/>
             <Grid HorizontalAlignment="Left" Height="100" Margin="85,63,0,0" VerticalAlignment="Top" Width="100"/>
             <Grid HorizontalAlignment="Left" Height="100" Margin="110,163,0,0" VerticalAlignment="Top" Width="100"/>

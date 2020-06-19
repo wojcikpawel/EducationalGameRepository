@@ -28,17 +28,20 @@
             <Button x:Name="bBack" Content="&lt;- Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,623,0,0" Height="100" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
         </Grid>
         <Grid x:Name="grid1" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF1071C1" Visibility="Collapsed">
-            <Image x:Name="imagePytanie" HorizontalAlignment="Left" Height="390" VerticalAlignment="Top" Width="395" Source="/Images/6.png" Margin="40,10,0,0"/>
-            <Image x:Name="imageA" HorizontalAlignment="Left" Height="80" Margin="70,445,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6a_pop.png" Tap="tapA"/>
-            <Image x:Name="imageB" HorizontalAlignment="Left" Height="80" Margin="300,445,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6b.png" Tap="tapB"/>
-            <Image x:Name="imageC" HorizontalAlignment="Left" Height="80" Margin="70,545,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6c.png" Tap="tapC"/>
-            <Image x:Name="imageD" HorizontalAlignment="Left" Height="80" Margin="300,545,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6d.png" Tap="tapD"/>
-            <TextBlock HorizontalAlignment="Left" Margin="25,445,0,0" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
-            <TextBlock HorizontalAlignment="Left" Margin="25,545,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
-            <TextBlock HorizontalAlignment="Left" Margin="255,445,0,0" TextWrapping="Wrap" Text="B" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
-            <TextBlock HorizontalAlignment="Left" Margin="255,545,0,0" TextWrapping="Wrap" Text="D" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="199,20,0,0" TextWrapping="Wrap" Text="IQ TEST" VerticalAlignment="Top" Width="80" Height="35" Foreground="Black" FontSize="20"/>
+            <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="35" Margin="30,47,0,0" VerticalAlignment="Top" Width="395" ValueChanged="progressBar_ValueChanged" SmallChange="1" Maximum="600" Foreground="Black"/>
+            <Image x:Name="imagePytanie" HorizontalAlignment="Left" Height="390" VerticalAlignment="Top" Width="395" Source="/Images/6.png" Margin="40,75,0,0"/>
+            <Image x:Name="imageA" HorizontalAlignment="Left" Height="80" Margin="70,480,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6a_pop.png" Tap="tapA"/>
+            <Image x:Name="imageB" HorizontalAlignment="Left" Height="80" Margin="300,480,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6b.png" Tap="tapB"/>
+            <Image x:Name="imageC" HorizontalAlignment="Left" Height="80" Margin="70,570,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6c.png" Tap="tapC"/>
+            <Image x:Name="imageD" HorizontalAlignment="Left" Height="80" Margin="300,570,0,0" VerticalAlignment="Top" Width="80" Source="/Images/6d.png" Tap="tapD"/>
+
+            <TextBlock HorizontalAlignment="Left" Margin="25,480,0,0" TextWrapping="Wrap" Text="A" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="25,570,0,0" TextWrapping="Wrap" Text="C" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="255,480,0,0" TextWrapping="Wrap" Text="B" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
+            <TextBlock HorizontalAlignment="Left" Margin="255,570,0,0" TextWrapping="Wrap" Text="D" VerticalAlignment="Top" Width="40" Height="65" FontSize="50" Foreground="Black"/>
             <Grid HorizontalAlignment="Left" Height="100" Margin="150,160,0,0" VerticalAlignment="Top" Width="100"/>
-            <ProgressBar x:Name="progressBar" HorizontalAlignment="Left" Height="35" Margin="40,405,0,0" VerticalAlignment="Top" Width="395" ValueChanged="progressBar_ValueChanged" SmallChange="1" Maximum="600" Foreground="Black"/>
+
             <Button x:Name="bBackIQ" Content="&lt;- Back" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="62,690,0,0" Height="80" Width="365" FontSize="30" Foreground="Black" BorderBrush="Black" Click="bBack_Click"/>
         </Grid>
         <Grid x:Name="grid2" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Background="#FF1071C1" Visibility="Collapsed">

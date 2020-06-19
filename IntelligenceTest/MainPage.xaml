@@ -26,9 +26,7 @@
             <RowDefinition Height="768"/>
         </Grid.RowDefinitions>
         <Grid x:Name="gridDane" HorizontalAlignment="Left" Height="768" VerticalAlignment="Top" Width="480" Grid.ColumnSpan="2" Background="#FF1071C1">
-            <TextBlock HorizontalAlignment="Left" Margin="130,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="200" Foreground="Black">
-                <Run FontWeight="Bold" Text="INTELLIGENCE TEST"/>
-            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="130,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="221" Foreground="Black" Text="EDUCATIONAL GAME" FontWeight="Bold"/>
             <TextBlock HorizontalAlignment="Left" Margin="90,185,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="95" Width="285" FontSize="30" FontFamily="Segoe WP SemiLight" Foreground="Black">
                 <Run FontWeight="Bold" Text="Enter your nickname:"/>
             </TextBlock>
