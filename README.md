@@ -12,7 +12,7 @@ Mobile Application - Windows Phone - Check your  strict skills under time pressu
 Educational game to check strict skills under time pressure for kids and youth as mobile application!
 
 ## Screenshots
-<p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/user.png" width="255" height="850" /> <img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/menu.png" width="255" height="850" /></p>
+<p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/user.png" width="255" height="850" /> <img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/menu.png" width="255" height="850" /> <img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/1.1.png" width="255" height="850" /> </p>
 
 ## Technologies
 Project is created with:
