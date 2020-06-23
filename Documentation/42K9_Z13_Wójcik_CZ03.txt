@@ -1,0 +1,9 @@
+Czêœæ trzecia projektu 42K9_Z13_Wójcik_CZ03 zosta³a uzupe³niona, poprawiona i rozszerzona o nastêpuj¹ce elementy:
+	-scenariusze przypadków u¿ycia zosta³y rozszerzone
+	-diagram klas zosta³ uzupe³niony
+	-model danych, opis klas i metod zosta³y uzupe³nione
+	-drzewo katalogowo - plikowe zosta³o uzupe³nione
+	-diagram przep³ywu danych zosta³ uzupe³niony
+	-diagram stanów zosta³ uzupe³niony
+	-tutorial (wymagania oraz sposób obs³ugi wraz z zrzutami ekranu) zosta³ 		uzupe³niony
+	-finalna wersja aplikacji zosta³a uzupe³niona
