@@ -49,5 +49,5 @@ http://elf2.pk.edu.pl/course/view.php?id=634#section-0
 ```
 
 ## Lead Time
-* 3 months
+* 3-4 months
 
