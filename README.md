@@ -48,10 +48,17 @@ enable Hyper-V system function
 http://elf2.pk.edu.pl/course/view.php?id=634#section-0
 ```
 
-## Database MySQL/PostgreSQL/SQLite/XAMPP
+## Database: XAMPP
 System zarządzania relacyjnymi bazami danych - RDBMS:
-* phpMyAdmin,
-* Oracle Database.
+* MySQL,
+* PostgreSQL,
+* Firebird,
+* Oracle Database,
+* SQLite,
+* phpMyAdmin.
+
+System zarządzania NIErelacyjnymi bazami danych:
+* MongoDB.
 
 ## Lead Time
 * 3-4 months
