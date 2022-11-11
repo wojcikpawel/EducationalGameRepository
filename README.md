@@ -51,7 +51,7 @@ http://elf2.pk.edu.pl/course/view.php?id=634#section-0
 ## Database MySQL/PostgreSQL/SQLite/XAMPP
 System zarządzania relacyjnymi bazami danych - RDBMS:
 * phpMyAdmin,
-* Oracle Database
+* Oracle Database.
 
 ## Lead Time
 * 3-4 months
