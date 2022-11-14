@@ -39,6 +39,7 @@ Project is created with:
 enable Hyper-V system function
 ```
 <p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/hyper-v.jpg" width="350px" height="330px" /></p>
+<p align="center"><img src="https://github.com/wojcikpawel/EducationalGameRepository/blob/master/Images/hyper-v-error.jpg" width="550px" height="330px" /></p>
 
 * Install Visual Studio Community 2015
 * Install Windows Phone 8.1 SDK
